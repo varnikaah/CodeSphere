@@ -1,0 +1,1 @@
+CodeSphere is a web-based code editor and development platform designed to enhance the learning and collaboration experience for programmers. It offers an interactive environment where users can write, edit, and test code in real time with support for multiple programming languages.
